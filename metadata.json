@@ -1,0 +1,11 @@
+{
+  "name": "AURA-PainCare",
+  "description": "AI silent-pain monitor for non-verbal ICU patients using 468-landmark facial biomarker analysis, dyspnea detection, and automated bilingual clinical alarms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
